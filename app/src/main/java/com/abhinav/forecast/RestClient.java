@@ -5,7 +5,7 @@ import com.loopj.android.http.*;
  * Created by Abhinav on 11/22/15.
  */
 public class RestClient {
-    public static final String BASE_URL = "xxxxxxxxxx";
+    public static final String BASE_URL = "http://cs-server.usc.edu:22382/index.php";
 
     private static AsyncHttpClient client = new AsyncHttpClient();
 
